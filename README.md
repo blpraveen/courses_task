@@ -1,10 +1,9 @@
 # FastAPI and MongoDB
 Using Fastapi to create course endpoints
-
-![FastAPI Image](FastAPI.png) ![Mongo DB](MongoDB-Logo.png)
-
-
-
+<p float="left">
+<img src="FastAPI.png" alt="drawing" width="300"/>
+<img src="MongoDB-Logo.png" alt="drawing" width="300"/>
+</p>
 ## Installation
 
 Download with:
